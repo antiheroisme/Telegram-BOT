@@ -9,10 +9,14 @@ node-telegram-bot-api (library untuk menghubungkan dengan API Telegram)
 
 ## Penggunaan
 Dapatkan token bot Telegram dari @BotFather.
-Salin kode sumber ke dalam file index.js.
+
+Salin kode sumber ke dalam file meta.js.
+
 Ganti nilai YOUR API-KEY pada baris ke-3 dengan token bot Anda.
+
 Install library node-telegram-bot-api dengan menjalankan perintah npm install di terminal.
-Jalankan bot dengan menjalankan perintah node index.js di terminal.
+
+Jalankan bot dengan menjalankan perintah node . di terminal.
 
 ## Perintah
 
