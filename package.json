@@ -1,0 +1,16 @@
+{
+  "name": "multidevice",
+  "version": "1.0.0",
+  "description": "Bot-telegram",
+  "main": "meta.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "sigma",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
