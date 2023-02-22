@@ -15,10 +15,15 @@ Install library node-telegram-bot-api dengan menjalankan perintah npm install di
 Jalankan bot dengan menjalankan perintah node index.js di terminal.
 
 ## Perintah
+
 /start : Memulai bot dan menampilkan keyboard dengan opsi "Rules", "About", dan "Sosmed".
+
 /rules : Menampilkan rules dari bot.
+
 /about : Menampilkan informasi tentang bot.
+
 /sosmed : Menampilkan daftar sosial media yang terhubung dengan bot.
+
 Selain perintah-perintah di atas, bot juga dapat menangani teks yang dikirimkan kepadanya. Jika pengguna memasukkan teks yang tidak dikenali, bot akan memberikan pesan balasan yang mengatakan bahwa perintah tersebut tidak valid.
 
 ## Kontribusi
